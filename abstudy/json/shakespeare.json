@@ -1,0 +1,72 @@
+{
+"questions":[
+            {
+                "question":"A horse!",
+                "response":"A horse! A horse! My kingdom for a horse!"
+            },
+			{
+				"question":"Winter",
+				"response":"Now is the winter of our discontent."
+			},
+			{
+				"question":"Romeo?",
+				"response":"O Romeo, Romeo! wherefore art thou Romeo?"
+			},
+			{
+				"question":"True love",
+				"response":"The course of true love never did run smooth."
+			},
+			{
+				"question":"Prick us",
+				"response":"If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge?"
+			},
+			{
+				"question":"Once",
+				"response":"A man can die but once."
+			},
+			{
+				"question":"Crown",
+				"response":"Uneasy lies the head that wears a crown."
+			},
+			{
+				"question":"Cowards",
+				"response":"Cowards die many times before their deaths; The valiant never taste of death but once."
+			},
+			{
+				"question":"Bury Caesar",
+				"response":"Friends, Romans, countrymen, lend me your ears; I come to bury Caesar, not to praise him. The evil that men do lives after them; The good is oft interred with their bones."
+			},
+			{
+				"question":"Nothing",
+				"response":"There is nothing either good or bad, but thinking makes it so."
+			},
+			{
+				"question":"The question",
+				"response":"To be or not to be, that is the question."
+			},
+			{
+				"question":"Play on",
+				"response":"If music be the food of love, play on."
+			},
+			{
+				"question":"Some",
+				"response":"Some are born great, some achieve greatness, and some have greatness thrust upon 'em."
+			},
+			{
+				"question":"Reputation",
+				"response":"Reputation is an idle and most false imposition; oft got without merit and lost without deserving."
+			},
+			{
+				"question":"Tomorrow, and tomorrow",
+				"response":"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death. Out, out, brief candle! Life's but a walking shadow, a poor player That struts and frets his hour upon the stage, And then is heard no more. It is a tale Told by an idiot, full of sound and fury, Signifying nothing."
+			},
+			{
+				"question":"Stuff",
+				"response":"We are such stuff As dreams are made on; and our little life Is rounded with a sleep."
+			},
+			{
+				"question":"Better",
+				"response":"We have seen better days."
+			}		
+    ]
+}
