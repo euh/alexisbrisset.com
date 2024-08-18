@@ -1,0 +1,24 @@
+{
+"questions":[
+			{
+				"question":"My Funny Valentine",
+				"response":"My funny valentine. Sweet comic valentine. You make me smile with my heart. Your looks are laughable. Unphotographable. Yet you're my favourite work of art."
+			},
+            {
+                "question":"Distance between the Moon and Earth",
+                "response":"The distance between the Moon and Earth varies from around 356,400 km to 406,700 km at the extreme perigees and apogees."
+            },
+            {
+                "question":"π",
+                "response":"3.1415926535897932384626433832795"
+            },
+			{
+				"question":"Sapiosexual",
+				"response":"A person sexually attracted to intelligence or the human mind."
+			},
+			{
+				"question":"Napoleon Bonaparte",
+				"response":"He was Emperor of the French from 1804 to 1814. He implemented a wide array of liberal reforms across Europe, including the abolition of feudalism and the spread of religious toleration. His legal code in France, the Napoleonic Code, influenced numerous civil law jurisdictions worldwide. Napoleon is remembered for his role in leading France against a series of coalitions in the Napoleonic Wars. He won the majority of his battles and seized control of most of continental Europe in a quest for personal power and to spread the ideals of the French Revolution. Widely regarded as one of the greatest commanders in history, his campaigns are studied at military academies worldwide."
+			}
+    ]
+}
